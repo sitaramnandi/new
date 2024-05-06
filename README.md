@@ -15,6 +15,7 @@ The Vendor Management System is a Django-based application that allows you to ma
 1. **Clone the Repository**: Clone the project repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/vendor-management-system.git
+   
    cd VendorManagement
 
 2-Set Up a Virtual Environment: Create and activate a virtual environment.
